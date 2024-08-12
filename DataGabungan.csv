@@ -1,0 +1,364 @@
+,ISBN,user_id,rating,title,author,publisher,image,year,average_rating,count_ratings
+5,0060283130,7,56,"The Reptile Room (A Series of Unfortunate Events, Book 2)",Lemony Snicket,HarperCollins,http://images.amazon.com/images/P/0060283130.01.THUMBZZZ.jpg,1999,8.0,49
+6,0060392452,58,484,Stupid White Men ...and Other Sorry Excuses for the State of the Nation!,Michael Moore,Regan Books,http://images.amazon.com/images/P/0060392452.01.THUMBZZZ.jpg,2002,8.344827586206897,3364
+7,0060502258,58,453,The Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,HarperTorch,http://images.amazon.com/images/P/0060502258.01.THUMBZZZ.jpg,2002,7.810344827586207,3364
+11,0060809833,10,91,Brave New World,Aldous Huxley,Harpercollins,http://images.amazon.com/images/P/0060809833.01.THUMBZZZ.jpg,1989,9.1,100
+12,0060830956,8,70,Brave New World,Aldous Huxley,HarperCollins Publishers,http://images.amazon.com/images/P/0060830956.01.THUMBZZZ.jpg,1984,8.75,64
+13,0060915544,46,399,The Bean Trees,Barbara Kingsolver,Perennial,http://images.amazon.com/images/P/0060915544.01.THUMBZZZ.jpg,1989,8.673913043478262,2116
+14,0060928336,92,746,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,Perennial,http://images.amazon.com/images/P/0060928336.01.THUMBZZZ.jpg,1997,8.108695652173912,8464
+15,0060929871,35,269,Brave New World,Aldous Huxley,Perennial,http://images.amazon.com/images/P/0060929871.01.THUMBZZZ.jpg,1998,7.685714285714286,1225
+16,0060930535,60,485,The Poisonwood Bible: A Novel,Barbara Kingsolver,Perennial,http://images.amazon.com/images/P/0060930535.01.THUMBZZZ.jpg,1999,8.083333333333334,3600
+17,0060934417,55,452,Bel Canto: A Novel,Ann Patchett,Perennial,http://images.amazon.com/images/P/0060934417.01.THUMBZZZ.jpg,2002,8.218181818181819,3025
+18,0060935464,14,121,To Kill a Mockingbird,Harper Lee,Perennial Classics,http://images.amazon.com/images/P/0060935464.01.THUMBZZZ.jpg,2002,8.642857142857142,196
+19,0060938455,61,509,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,Perennial,http://images.amazon.com/images/P/0060938455.01.THUMBZZZ.jpg,2002,8.344262295081966,3721
+20,0060976845,61,464,Little Altars Everywhere: A Novel,Rebecca Wells,Perennial,http://images.amazon.com/images/P/0060976845.01.THUMBZZZ.jpg,1996,7.60655737704918,3721
+21,0060977477,9,74,The Perfect Storm : A True Story of Men Against the Sea,Sebastian Junger,Perennial,http://images.amazon.com/images/P/0060977477.01.THUMBZZZ.jpg,1999,8.222222222222221,81
+22,0060987103,63,493,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,Regan Books,http://images.amazon.com/images/P/0060987103.01.THUMBZZZ.jpg,1996,7.825396825396825,3969
+23,0060987529,44,337,Confessions of an Ugly Stepsister : A Novel,Gregory Maguire,Regan Books,http://images.amazon.com/images/P/0060987529.01.THUMBZZZ.jpg,2000,7.659090909090909,1936
+24,0060987561,37,322,I Know This Much Is True,Wally Lamb,Regan Books,http://images.amazon.com/images/P/0060987561.01.THUMBZZZ.jpg,1999,8.702702702702704,1369
+25,0061009059,55,439,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,HarperTorch,http://images.amazon.com/images/P/0061009059.01.THUMBZZZ.jpg,1995,7.9818181818181815,3025
+26,006101351X,38,283,The Perfect Storm : A True Story of Men Against the Sea,Sebastian Junger,HarperTorch,http://images.amazon.com/images/P/006101351X.01.THUMBZZZ.jpg,1998,7.447368421052632,1444
+30,0061097314,18,142,The Bean Trees,Barbara Kingsolver,HarperTorch,http://images.amazon.com/images/P/0061097314.01.THUMBZZZ.jpg,1998,7.888888888888889,324
+32,006440188X,15,145,The Secret Garden,Frances Hodgson Burnett,HarperTrophy,http://images.amazon.com/images/P/006440188X.01.THUMBZZZ.jpg,1998,9.666666666666666,225
+33,0064407667,52,404,"The Bad Beginning (A Series of Unfortunate Events, Book 1)",Lemony Snicket,HarperCollins,http://images.amazon.com/images/P/0064407667.01.THUMBZZZ.jpg,1999,7.769230769230769,2704
+34,0064407675,33,263,"The Reptile Room (A Series of Unfortunate Events, Book 2)",Lemony Snicket,HarperCollins,http://images.amazon.com/images/P/0064407675.01.THUMBZZZ.jpg,1999,7.96969696969697,1089
+35,0070212570,36,315,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,McGraw-Hill,http://images.amazon.com/images/P/0070212570.01.THUMBZZZ.jpg,1989,8.75,1296
+38,0099245027,9,61,The Testament,John Grisham,Trafalgar Square,http://images.amazon.com/images/P/0099245027.01.THUMBZZZ.jpg,1999,6.777777777777778,81
+40,0140067477,39,315,The Tao of Pooh,Benjamin Hoff,Penguin Books,http://images.amazon.com/images/P/0140067477.01.THUMBZZZ.jpg,1983,8.076923076923077,1521
+44,014028009X,60,455,Bridget Jones's Diary,Helen Fielding,Penguin Books,http://images.amazon.com/images/P/014028009X.01.THUMBZZZ.jpg,1999,7.583333333333333,3600
+45,0140282033,9,68,Chocolat,Joanne Harris,Penguin Books,http://images.amazon.com/images/P/0140282033.01.THUMBZZZ.jpg,2000,7.555555555555555,81
+47,0140293248,48,327,The Girls' Guide to Hunting and Fishing,Melissa Bank,Penguin Books,http://images.amazon.com/images/P/0140293248.01.THUMBZZZ.jpg,2000,6.8125,2304
+50,014029628X,42,340,Girl in Hyacinth Blue,Susan Vreeland,Penguin Books,http://images.amazon.com/images/P/014029628X.01.THUMBZZZ.jpg,2000,8.095238095238095,1764
+51,0140298479,43,343,Bridget Jones: The Edge of Reason,Helen Fielding,Penguin Books,http://images.amazon.com/images/P/0140298479.01.THUMBZZZ.jpg,2001,7.976744186046512,1849
+53,014100018X,29,236,Chocolat,Joanne Harris,Penguin Books,http://images.amazon.com/images/P/014100018X.01.THUMBZZZ.jpg,2000,8.137931034482758,841
+54,0141000198,32,232,Bridget Jones's Diary,Helen Fielding,Penguin Putnam,http://images.amazon.com/images/P/0141000198.01.THUMBZZZ.jpg,2001,7.25,1024
+55,0142000205,41,309,Icy Sparks,Gwyn Hyman Rubio,Penguin Books,http://images.amazon.com/images/P/0142000205.01.THUMBZZZ.jpg,2001,7.536585365853658,1681
+56,0142001740,97,855,The Secret Life of Bees,Sue Monk Kidd,Penguin Books,http://images.amazon.com/images/P/0142001740.01.THUMBZZZ.jpg,2003,8.814432989690722,9409
+58,015100692X,24,182,The Crimson Petal and the White,Michel Faber,Harcourt,http://images.amazon.com/images/P/015100692X.01.THUMBZZZ.jpg,2002,7.583333333333333,576
+59,0151008116,35,288,Life of Pi,Yann Martel,Harcourt,http://images.amazon.com/images/P/0151008116.01.THUMBZZZ.jpg,2002,8.228571428571428,1225
+64,0156012197,14,134,The Little Prince,Antoine de Saint-ExupÃ©ry,Harvest Books,http://images.amazon.com/images/P/0156012197.01.THUMBZZZ.jpg,2000,9.571428571428571,196
+65,0156027321,78,641,Life of Pi,Yann Martel,Harvest Books,http://images.amazon.com/images/P/0156027321.01.THUMBZZZ.jpg,2003,8.217948717948717,6084
+67,0156028778,18,124,The Crimson Petal and the White,Michel Faber,Harvest Books,http://images.amazon.com/images/P/0156028778.01.THUMBZZZ.jpg,2003,6.888888888888889,324
+69,0156528207,19,174,The Little Prince,Antoine de Saint-ExupÃ©ry,Harcourt,http://images.amazon.com/images/P/0156528207.01.THUMBZZZ.jpg,1968,9.157894736842104,361
+73,0312195516,115,980,The Red Tent (Bestselling Backlist),Anita Diamant,Picador USA,http://images.amazon.com/images/P/0312195516.01.THUMBZZZ.jpg,1998,8.521739130434783,13225
+74,0312203039,9,74,High Five (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Press,http://images.amazon.com/images/P/0312203039.01.THUMBZZZ.jpg,1999,8.222222222222221,81
+75,0312265840,14,113,Seven Up (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Press,http://images.amazon.com/images/P/0312265840.01.THUMBZZZ.jpg,2001,8.071428571428571,196
+76,0312265859,26,216,Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Press,http://images.amazon.com/images/P/0312265859.01.THUMBZZZ.jpg,2002,8.307692307692308,676
+77,0312278586,63,477,The Nanny Diaries: A Novel,Emma McLaughlin,St. Martin's Press,http://images.amazon.com/images/P/0312278586.01.THUMBZZZ.jpg,2002,7.571428571428571,3969
+78,0312291639,38,294,The Nanny Diaries: A Novel,Emma McLaughlin,St. Martin's Griffin,http://images.amazon.com/images/P/0312291639.01.THUMBZZZ.jpg,2003,7.7368421052631575,1444
+79,0312305060,52,397,The Hours: A Novel,Michael Cunningham,Picador,http://images.amazon.com/images/P/0312305060.01.THUMBZZZ.jpg,2002,7.634615384615385,2704
+80,0312422156,27,227,Middlesex: A Novel,Jeffrey Eugenides,Picador,http://images.amazon.com/images/P/0312422156.01.THUMBZZZ.jpg,2003,8.407407407407407,729
+82,0312924585,60,511,Silence of the Lambs,Thomas Harris,St. Martin's Press,http://images.amazon.com/images/P/0312924585.01.THUMBZZZ.jpg,1991,8.516666666666667,3600
+83,0312966091,52,440,Three To Get Deadly : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312966091.01.THUMBZZZ.jpg,1998,8.461538461538462,2704
+84,0312966970,52,437,Four To Score (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312966970.01.THUMBZZZ.jpg,1999,8.403846153846153,2704
+85,0312971346,48,419,High Five (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312971346.01.THUMBZZZ.jpg,2000,8.729166666666666,2304
+86,0312976275,47,380,Hot Six : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312976275.01.THUMBZZZ.jpg,2001,8.085106382978724,2209
+87,0312980140,54,462,Seven Up (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312980140.01.THUMBZZZ.jpg,2002,8.555555555555555,2916
+88,0312983271,40,309,Full House (Janet Evanovich's Full Series),Janet Evanovich,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312983271.01.THUMBZZZ.jpg,2002,7.725,1600
+89,0312983867,37,300,Hard Eight : A Stephanie Plum Novel (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Paperbacks,http://images.amazon.com/images/P/0312983867.01.THUMBZZZ.jpg,2003,8.108108108108109,1369
+90,0316096199,54,457,Lucky : A Memoir,Alice Sebold,Back Bay Books,http://images.amazon.com/images/P/0316096199.01.THUMBZZZ.jpg,2002,8.462962962962964,2916
+91,0316182540,11,94,White Oleander : A Novel,Janet Fitch,"Little, Brown",http://images.amazon.com/images/P/0316182540.01.THUMBZZZ.jpg,2001,8.545454545454545,121
+92,0316284955,43,337,White Oleander : A Novel (Oprah's Book Club),Janet Fitch,Back Bay Books,http://images.amazon.com/images/P/0316284955.01.THUMBZZZ.jpg,2000,7.837209302325581,1849
+94,0316569321,49,385,White Oleander : A Novel,Janet Fitch,"Little, Brown",http://images.amazon.com/images/P/0316569321.01.THUMBZZZ.jpg,1999,7.857142857142857,2401
+95,0316601950,73,579,The Pilot's Wife : A Novel,Anita Shreve,Back Bay Books,http://images.amazon.com/images/P/0316601950.01.THUMBZZZ.jpg,1999,7.931506849315069,5329
+97,0316666009,20,140,1st to Die: A Novel,James Patterson,Little Brown and Company,http://images.amazon.com/images/P/0316666009.01.THUMBZZZ.jpg,2001,7.0,400
+98,0316666343,195,1614,The Lovely Bones: A Novel,Alice Sebold,"Little, Brown",http://images.amazon.com/images/P/0316666343.01.THUMBZZZ.jpg,2002,8.276923076923078,38025
+99,0316690619,15,91,Cradle and All,James Patterson,Little Brown and Company,http://images.amazon.com/images/P/0316690619.01.THUMBZZZ.jpg,2000,6.066666666666666,225
+100,0316693006,19,160,Four Blind Mice,James Patterson,"Little, Brown",http://images.amazon.com/images/P/0316693006.01.THUMBZZZ.jpg,2002,8.421052631578947,361
+101,0316693200,32,237,2nd Chance,James Patterson,"Little, Brown",http://images.amazon.com/images/P/0316693200.01.THUMBZZZ.jpg,2002,7.40625,1024
+102,0316693235,22,161,Violets Are Blue,James Patterson,"Little, Brown",http://images.amazon.com/images/P/0316693235.01.THUMBZZZ.jpg,2001,7.318181818181818,484
+103,0316693324,12,94,When the Wind Blows,James Patterson,Replica Books,http://images.amazon.com/images/P/0316693324.01.THUMBZZZ.jpg,1998,7.833333333333333,144
+106,0316769487,86,654,The Catcher in the Rye,J.D. Salinger,"Little, Brown",http://images.amazon.com/images/P/0316769487.01.THUMBZZZ.jpg,1991,7.604651162790698,7396
+108,0316776963,57,459,Me Talk Pretty One Day,David Sedaris,Back Bay Books,http://images.amazon.com/images/P/0316776963.01.THUMBZZZ.jpg,2001,8.052631578947368,3249
+109,0316777722,23,183,Me Talk Pretty One Day,David Sedaris,"Little, Brown",http://images.amazon.com/images/P/0316777722.01.THUMBZZZ.jpg,2000,7.956521739130435,529
+110,0316781142,16,119,The Last Time They Met : A Novel,Anita Shreve,"Little, Brown",http://images.amazon.com/images/P/0316781142.01.THUMBZZZ.jpg,2001,7.4375,256
+111,0316781266,25,156,The Last Time They Met : A Novel,Anita Shreve,Back Bay Books,http://images.amazon.com/images/P/0316781266.01.THUMBZZZ.jpg,2002,6.24,625
+112,0316969443,25,192,Suzanne's Diary for Nicholas,James Patterson,"Little, Brown",http://images.amazon.com/images/P/0316969443.01.THUMBZZZ.jpg,2001,7.68,625
+113,0316969680,16,114,The Beach House,James Patterson,"Little, Brown",http://images.amazon.com/images/P/0316969680.01.THUMBZZZ.jpg,2002,7.125,256
+115,0330332775,17,129,Bridget Jones's Diary,Helen Fielding,Picador (UK),http://images.amazon.com/images/P/0330332775.01.THUMBZZZ.jpg,1997,7.588235294117647,289
+116,0330375253,8,71,Bridget Jones's Diary,Helen Fielding,Picador,http://images.amazon.com/images/P/0330375253.01.THUMBZZZ.jpg,2001,8.875,64
+121,0345313860,75,617,"The Vampire Lestat (Vampire Chronicles, Book II)",ANNE RICE,Ballantine Books,http://images.amazon.com/images/P/0345313860.01.THUMBZZZ.jpg,1986,8.226666666666667,5625
+123,0345337662,108,830,Interview with the Vampire,Anne Rice,Ballantine Books,http://images.amazon.com/images/P/0345337662.01.THUMBZZZ.jpg,1993,7.685185185185185,11664
+124,0345339681,62,543,The Hobbit : The Enchanting Prelude to The Lord of the Rings,J.R.R. TOLKIEN,Del Rey,http://images.amazon.com/images/P/0345339681.01.THUMBZZZ.jpg,1986,8.758064516129032,3844
+125,0345339703,45,405,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J.R.R. TOLKIEN,Del Rey,http://images.amazon.com/images/P/0345339703.01.THUMBZZZ.jpg,1986,9.0,2025
+126,0345339711,38,349,"The Two Towers (The Lord of the Rings, Part 2)",J.R.R. TOLKIEN,Del Rey,http://images.amazon.com/images/P/0345339711.01.THUMBZZZ.jpg,1986,9.18421052631579,1444
+127,0345339738,37,348,"The Return of the King (The Lord of the Rings, Part 3)",J.R.R. TOLKIEN,Del Rey,http://images.amazon.com/images/P/0345339738.01.THUMBZZZ.jpg,1986,9.405405405405405,1369
+128,0345342968,65,571,Fahrenheit 451,RAY BRADBURY,Del Rey,http://images.amazon.com/images/P/0345342968.01.THUMBZZZ.jpg,1987,8.784615384615385,4225
+129,0345350499,38,335,The Mists of Avalon,MARION ZIMMER BRADLEY,Del Rey,http://images.amazon.com/images/P/0345350499.01.THUMBZZZ.jpg,1987,8.81578947368421,1444
+130,0345351525,46,350,The Queen of the Damned (Vampire Chronicles (Paperback)),Anne Rice,Ballantine Books,http://images.amazon.com/images/P/0345351525.01.THUMBZZZ.jpg,1993,7.608695652173913,2116
+131,0345353145,41,315,Sphere,MICHAEL CRICHTON,Ballantine Books,http://images.amazon.com/images/P/0345353145.01.THUMBZZZ.jpg,1988,7.682926829268292,1681
+132,0345360001,10,75,The Mummy or Ramses the Damned,Anne Rice,Ballantine Books,http://images.amazon.com/images/P/0345360001.01.THUMBZZZ.jpg,1989,7.5,100
+133,0345361792,57,489,A Prayer for Owen Meany,John Irving,Ballantine Books,http://images.amazon.com/images/P/0345361792.01.THUMBZZZ.jpg,1990,8.578947368421053,3249
+134,0345369947,30,246,The Mummy or Ramses the Damned,Anne Rice,Ballantine Books,http://images.amazon.com/images/P/0345369947.01.THUMBZZZ.jpg,1991,8.2,900
+135,0345370775,92,705,Jurassic Park,Michael Crichton,Ballantine Books,http://images.amazon.com/images/P/0345370775.01.THUMBZZZ.jpg,1999,7.663043478260869,8464
+136,0345380371,43,314,Rising Sun,MICHAEL CRICHTON,Ballantine Books,http://images.amazon.com/images/P/0345380371.01.THUMBZZZ.jpg,1992,7.3023255813953485,1849
+137,0345384466,38,317,The Witching Hour (Lives of the Mayfair Witches),ANNE RICE,Ballantine Books,http://images.amazon.com/images/P/0345384466.01.THUMBZZZ.jpg,1993,8.342105263157896,1444
+138,034538475X,53,371,The Tale of the Body Thief (Vampire Chronicles (Paperback)),Anne Rice,Ballantine Books,http://images.amazon.com/images/P/034538475X.01.THUMBZZZ.jpg,1993,7.0,2809
+139,0345387651,32,230,The Cider House Rules,John Irving,Ballantine Books,http://images.amazon.com/images/P/0345387651.01.THUMBZZZ.jpg,1994,7.1875,1024
+140,0345391802,28,232,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Ballantine Books,http://images.amazon.com/images/P/0345391802.01.THUMBZZZ.jpg,1995,8.285714285714286,784
+142,0345413350,25,210,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,Del Rey,http://images.amazon.com/images/P/0345413350.01.THUMBZZZ.jpg,1997,8.4,625
+143,0345413369,15,129,"The Subtle Knife (His Dark Materials, Book 2)",PHILIP PULLMAN,Del Rey,http://images.amazon.com/images/P/0345413369.01.THUMBZZZ.jpg,1998,8.6,225
+144,0345417623,47,371,Timeline,MICHAEL CRICHTON,Ballantine Books,http://images.amazon.com/images/P/0345417623.01.THUMBZZZ.jpg,2000,7.8936170212765955,2209
+148,0345441036,16,126,Black House,Stephen King,Ballantine Books,http://images.amazon.com/images/P/0345441036.01.THUMBZZZ.jpg,2002,7.875,256
+150,0345443284,39,280,While I Was Gone,Sue Miller,Ballantine Books,http://images.amazon.com/images/P/0345443284.01.THUMBZZZ.jpg,1999,7.17948717948718,1521
+151,0345444884,26,221,The Talisman,STEPHEN KING,Ballantine Books,http://images.amazon.com/images/P/0345444884.01.THUMBZZZ.jpg,2001,8.5,676
+154,0374199698,26,215,Middlesex: A Novel,Jeffrey Eugenides,"Farrar, Straus and Giroux",http://images.amazon.com/images/P/0374199698.01.THUMBZZZ.jpg,2002,8.26923076923077,676
+155,0374386137,6,49,A Wrinkle in Time,Madeleine L'Engle,Farrar Straus Giroux,http://images.amazon.com/images/P/0374386137.01.THUMBZZZ.jpg,1962,8.166666666666666,36
+163,0375504397,28,226,Black House,Stephen King,Random House Trade,http://images.amazon.com/images/P/0375504397.01.THUMBZZZ.jpg,2001,8.071428571428571,784
+167,0375706771,64,507,Midwives: A Novel,Chris Bohjalian,Vintage,http://images.amazon.com/images/P/0375706771.01.THUMBZZZ.jpg,1998,7.921875,4096
+168,0375707972,51,380,The Reader,Bernhard Schlink,Vintage Books USA,http://images.amazon.com/images/P/0375707972.01.THUMBZZZ.jpg,1999,7.450980392156863,2601
+169,0375726403,49,379,Empire Falls,Richard Russo,Vintage Books USA,http://images.amazon.com/images/P/0375726403.01.THUMBZZZ.jpg,2002,7.73469387755102,2401
+170,0375727345,73,555,House of Sand and Fog,Andre Dubus III,Vintage Books,http://images.amazon.com/images/P/0375727345.01.THUMBZZZ.jpg,2000,7.602739726027397,5329
+173,037582345X,6,58,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,Knopf Books for Young Readers,http://images.amazon.com/images/P/037582345X.01.THUMBZZZ.jpg,2002,9.666666666666666,36
+175,0380002930,50,433,Watership Down,Richard Adams,Avon,http://images.amazon.com/images/P/0380002930.01.THUMBZZZ.jpg,1976,8.66,2500
+176,038039586X,6,49,Watership Down,Richard George Adams,Harpercollins,http://images.amazon.com/images/P/038039586X.01.THUMBZZZ.jpg,1975,8.166666666666666,36
+177,0380718340,43,360,Cruel &amp; Unusual (Kay Scarpetta Mysteries (Paperback)),Patricia D. Cornwell,Avon,http://images.amazon.com/images/P/0380718340.01.THUMBZZZ.jpg,1994,8.372093023255815,1849
+178,0380731851,32,244,Mystic River,Dennis Lehane,HarperTorch,http://images.amazon.com/images/P/0380731851.01.THUMBZZZ.jpg,2002,7.625,1024
+179,0380789019,42,348,Neverwhere,Neil Gaiman,Avon,http://images.amazon.com/images/P/0380789019.01.THUMBZZZ.jpg,1998,8.285714285714286,1764
+180,0380789035,51,414,American Gods,Neil Gaiman,HarperTorch,http://images.amazon.com/images/P/0380789035.01.THUMBZZZ.jpg,2002,8.117647058823529,2601
+181,038079487X,42,323,What Looks Like Crazy On An Ordinary Day,Pearl Cleage,Perennial,http://images.amazon.com/images/P/038079487X.01.THUMBZZZ.jpg,1998,7.690476190476191,1764
+182,0380807343,13,108,Coraline,Neil Gaiman,HarperTrophy,http://images.amazon.com/images/P/0380807343.01.THUMBZZZ.jpg,2003,8.307692307692308,169
+184,0380977788,37,305,Coraline,Neil Gaiman,HarperCollins,http://images.amazon.com/images/P/0380977788.01.THUMBZZZ.jpg,2002,8.243243243243244,1369
+186,0385182449,10,86,Pet Sematary,Stephen King,Doubleday Books,http://images.amazon.com/images/P/0385182449.01.THUMBZZZ.jpg,1993,8.6,100
+187,0385265700,42,307,The Book of Ruth (Oprah's Book Club (Paperback)),Jane Hamilton,Anchor,http://images.amazon.com/images/P/0385265700.01.THUMBZZZ.jpg,1990,7.309523809523809,1764
+188,038529929X,23,181,Hannibal,Thomas Harris,Del Sol Press,http://images.amazon.com/images/P/038529929X.01.THUMBZZZ.jpg,1999,7.869565217391305,529
+189,0385302304,7,63,Outlander,DIANA GABALDON,Delacorte Press,http://images.amazon.com/images/P/0385302304.01.THUMBZZZ.jpg,1991,9.0,49
+190,0385315236,13,99,The Horse Whisperer,Nicholas Evans,Delacorte Press,http://images.amazon.com/images/P/0385315236.01.THUMBZZZ.jpg,1995,7.615384615384615,169
+193,0385324057,8,61,Summer Sisters,Judy Blume,Delacorte Press,http://images.amazon.com/images/P/0385324057.01.THUMBZZZ.jpg,1998,7.625,64
+194,0385335482,60,465,Confessions of a Shopaholic (Summer Display Opportunity),SOPHIE KINSELLA,Delta,http://images.amazon.com/images/P/0385335482.01.THUMBZZZ.jpg,2001,7.75,3600
+195,0385335881,43,350,Shopaholic Takes Manhattan (Summer Display Opportunity),Sophie Kinsella,Delta,http://images.amazon.com/images/P/0385335881.01.THUMBZZZ.jpg,2002,8.13953488372093,1849
+198,0385416342,7,57,The Firm,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385416342.01.THUMBZZZ.jpg,1991,8.142857142857142,49
+199,0385421982,10,89,The Pelican Brief,JOHN GRISHAM,Doubleday,http://images.amazon.com/images/P/0385421982.01.THUMBZZZ.jpg,1992,8.9,100
+200,038542471X,15,118,The Client,John Grisham,Doubleday Books,http://images.amazon.com/images/P/038542471X.01.THUMBZZZ.jpg,1993,7.866666666666666,225
+201,0385424728,27,202,The Chamber,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385424728.01.THUMBZZZ.jpg,1994,7.481481481481482,729
+202,0385424736,26,202,The Rainmaker,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385424736.01.THUMBZZZ.jpg,1995,7.769230769230769,676
+204,0385470819,6,49,A Time to Kill,JOHN GRISHAM,Doubleday,http://images.amazon.com/images/P/0385470819.01.THUMBZZZ.jpg,1993,8.166666666666666,36
+205,0385472943,16,127,The Runaway Jury,JOHN GRISHAM,Doubleday,http://images.amazon.com/images/P/0385472943.01.THUMBZZZ.jpg,1996,7.9375,256
+206,0385472951,26,199,The Partner,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385472951.01.THUMBZZZ.jpg,1997,7.653846153846154,676
+207,0385484518,75,660,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,Doubleday,http://images.amazon.com/images/P/0385484518.01.THUMBZZZ.jpg,1997,8.8,5625
+208,0385490992,24,172,The Street Lawyer,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385490992.01.THUMBZZZ.jpg,1998,7.166666666666667,576
+209,0385492081,42,360,Into Thin Air : A Personal Account of the Mt. Everest Disaster,JON KRAKAUER,Anchor,http://images.amazon.com/images/P/0385492081.01.THUMBZZZ.jpg,1998,8.571428571428571,1764
+210,0385493800,24,173,The Testament,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385493800.01.THUMBZZZ.jpg,1999,7.208333333333333,576
+212,0385497466,21,155,The Brethren,JOHN GRISHAM,Doubleday,http://images.amazon.com/images/P/0385497466.01.THUMBZZZ.jpg,2000,7.380952380952381,441
+214,038550120X,30,241,A Painted House,JOHN GRISHAM,Doubleday,http://images.amazon.com/images/P/038550120X.01.THUMBZZZ.jpg,2001,8.033333333333333,900
+215,0385503822,24,182,The Summons,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385503822.01.THUMBZZZ.jpg,2002,7.583333333333333,576
+216,0385504209,149,1282,The Da Vinci Code,Dan Brown,Doubleday,http://images.amazon.com/images/P/0385504209.01.THUMBZZZ.jpg,2003,8.604026845637584,22201
+217,0385505833,48,363,Skipping Christmas,JOHN GRISHAM,Doubleday,http://images.amazon.com/images/P/0385505833.01.THUMBZZZ.jpg,2001,7.5625,2304
+218,0385508042,23,174,The King of Torts,John Grisham,Doubleday Books,http://images.amazon.com/images/P/0385508042.01.THUMBZZZ.jpg,2003,7.565217391304348,529
+219,0385508417,13,102,Skipping Christmas,JOHN GRISHAM,Doubleday,http://images.amazon.com/images/P/0385508417.01.THUMBZZZ.jpg,2002,7.846153846153846,169
+220,0385720106,39,277,A Map of the World,Jane Hamilton,Anchor Books/Doubleday,http://images.amazon.com/images/P/0385720106.01.THUMBZZZ.jpg,1999,7.102564102564102,1521
+221,0385722206,57,456,Balzac and the Little Chinese Seamstress : A Novel,DAI SIJIE,Anchor,http://images.amazon.com/images/P/0385722206.01.THUMBZZZ.jpg,2002,8.0,3249
+222,0393046974,9,71,House of Sand and Fog,Andre Dubus III,W.W. Norton &amp; Company,http://images.amazon.com/images/P/0393046974.01.THUMBZZZ.jpg,1999,7.888888888888889,81
+226,0394587863,10,85,The Witching Hour (Lives of the Mayfair Witches),ANNE RICE,Knopf,http://images.amazon.com/images/P/0394587863.01.THUMBZZZ.jpg,1990,8.5,100
+231,0395353009,6,52,The Prince of Tides,Pat Conroy,Houghton Mifflin Company,http://images.amazon.com/images/P/0395353009.01.THUMBZZZ.jpg,1986,8.666666666666666,36
+239,039913039X,8,64,Skeleton Crew,Stephen King,Putnam Pub Group,http://images.amazon.com/images/P/039913039X.01.THUMBZZZ.jpg,1985,8.0,64
+240,0399133143,14,92,The Tommyknockers,Stephen King,Putnam Pub Group,http://images.amazon.com/images/P/0399133143.01.THUMBZZZ.jpg,1987,6.571428571428571,196
+241,0399135782,7,63,The Kitchen God's Wife,Amy Tan,Putnam Pub Group,http://images.amazon.com/images/P/0399135782.01.THUMBZZZ.jpg,1991,9.0,49
+242,0399141146,15,122,The Hundred Secret Senses,Amy Tan,Putnam Pub Group,http://images.amazon.com/images/P/0399141146.01.THUMBZZZ.jpg,1995,8.133333333333333,225
+243,0399142851,11,85,Unnatural Exposure,Patricia Daniels Cornwell,Putnam Pub Group,http://images.amazon.com/images/P/0399142851.01.THUMBZZZ.jpg,1997,7.7272727272727275,121
+244,0399143947,14,117,Point of Origin,Patricia Daniels Cornwell,Putnam Pub Group,http://images.amazon.com/images/P/0399143947.01.THUMBZZZ.jpg,1998,8.357142857142858,196
+245,0399145087,16,127,Black Notice,Patricia Daniels Cornwell,Putnam Pub Group,http://images.amazon.com/images/P/0399145087.01.THUMBZZZ.jpg,1999,7.9375,256
+247,0399146431,19,162,The Bonesetter's Daughter,Amy Tan,Putnam Publishing Group,http://images.amazon.com/images/P/0399146431.01.THUMBZZZ.jpg,2001,8.526315789473685,361
+248,039914739X,8,44,Isle of Dogs,Patricia Daniels Cornwell,Putnam Publishing Group,http://images.amazon.com/images/P/039914739X.01.THUMBZZZ.jpg,2001,5.5,64
+249,0399149155,24,194,Q Is for Quarry,Sue Grafton,Putnam Publishing Group,http://images.amazon.com/images/P/0399149155.01.THUMBZZZ.jpg,2002,8.083333333333334,576
+250,0399501487,56,464,Lord of the Flies,William Gerald Golding,Perigee Trade,http://images.amazon.com/images/P/0399501487.01.THUMBZZZ.jpg,1959,8.285714285714286,3136
+251,0425081818,8,61,The Talisman,Stephen King,Berkley Publishing Group,http://images.amazon.com/images/P/0425081818.01.THUMBZZZ.jpg,1985,7.625,64
+252,0425105334,17,141,The Talisman,Stephen King,Berkley Publishing Group,http://images.amazon.com/images/P/0425105334.01.THUMBZZZ.jpg,1991,8.294117647058824,289
+253,0425154092,39,314,From Potter's Field,Patricia Daniels Cornwell,Berkley Publishing Group,http://images.amazon.com/images/P/0425154092.01.THUMBZZZ.jpg,1996,8.051282051282051,1521
+254,0425163407,31,248,Unnatural Exposure,Patricia Daniels Cornwell,Berkley Publishing Group,http://images.amazon.com/images/P/0425163407.01.THUMBZZZ.jpg,1998,8.0,961
+255,0425169863,29,232,Point of Origin,Patricia Daniels Cornwell,Berkley Publishing Group,http://images.amazon.com/images/P/0425169863.01.THUMBZZZ.jpg,1999,8.0,841
+256,0425175405,27,206,Black Notice,Patricia Daniels Cornwell,Berkley Publishing Group,http://images.amazon.com/images/P/0425175405.01.THUMBZZZ.jpg,2000,7.62962962962963,729
+257,0425182908,30,173,Isle of Dogs,Patricia Cornwell,Berkley Publishing Group,http://images.amazon.com/images/P/0425182908.01.THUMBZZZ.jpg,2002,5.766666666666667,900
+259,0425192725,22,178,Q Is for Quarry,Sue Grafton,Berkley Publishing Group,http://images.amazon.com/images/P/0425192725.01.THUMBZZZ.jpg,2003,8.090909090909092,484
+261,0439064864,81,724,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/0439064864.01.THUMBZZZ.jpg,1999,8.938271604938272,6561
+262,0439064872,73,647,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/0439064872.01.THUMBZZZ.jpg,2000,8.863013698630137,5329
+264,0439136350,81,745,Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/0439136350.01.THUMBZZZ.jpg,1999,9.197530864197532,6561
+265,0439136369,57,512,Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/0439136369.01.THUMBZZZ.jpg,2001,8.982456140350877,3249
+266,0439139597,79,734,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/0439139597.01.THUMBZZZ.jpg,2000,9.291139240506329,6241
+267,0439139600,48,440,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,Scholastic Paperbacks,http://images.amazon.com/images/P/0439139600.01.THUMBZZZ.jpg,2002,9.166666666666666,2304
+269,043935806X,112,1011,Harry Potter and the Order of the Phoenix (Book 5),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/043935806X.01.THUMBZZZ.jpg,2003,9.026785714285714,12544
+270,043936213X,21,195,Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/043936213X.01.THUMBZZZ.jpg,2001,9.285714285714286,441
+272,0439420105,6,58,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/0439420105.01.THUMBZZZ.jpg,2002,9.666666666666666,36
+274,0440198577,6,43,When the Wind Blows,John Saul,Bantam Doubleday Dell,http://images.amazon.com/images/P/0440198577.01.THUMBZZZ.jpg,0,7.166666666666667,36
+275,0440206154,67,546,Red Dragon,Thomas Harris,Dell Publishing Company,http://images.amazon.com/images/P/0440206154.01.THUMBZZZ.jpg,2000,8.149253731343284,4489
+276,044021145X,92,728,The Firm,John Grisham,Bantam Dell Publishing Group,http://images.amazon.com/images/P/044021145X.01.THUMBZZZ.jpg,1992,7.913043478260869,8464
+277,0440211727,82,660,A Time to Kill,JOHN GRISHAM,Dell,http://images.amazon.com/images/P/0440211727.01.THUMBZZZ.jpg,1992,8.048780487804878,6724
+278,0440212561,39,327,Outlander,DIANA GABALDON,Dell,http://images.amazon.com/images/P/0440212561.01.THUMBZZZ.jpg,1992,8.384615384615385,1521
+279,0440213525,63,482,The Client,John Grisham,Dell Publishing Company,http://images.amazon.com/images/P/0440213525.01.THUMBZZZ.jpg,1994,7.650793650793651,3969
+280,0440214041,73,547,The Pelican Brief,John Grisham,Dell,http://images.amazon.com/images/P/0440214041.01.THUMBZZZ.jpg,1993,7.493150684931507,5329
+282,0440220602,57,434,The Chamber,John Grisham,Dell Publishing Company,http://images.amazon.com/images/P/0440220602.01.THUMBZZZ.jpg,1995,7.614035087719298,3249
+283,0440221471,55,424,The Runaway Jury,JOHN GRISHAM,Dell,http://images.amazon.com/images/P/0440221471.01.THUMBZZZ.jpg,1997,7.709090909090909,3025
+284,044022165X,41,300,The Rainmaker,JOHN GRISHAM,Dell,http://images.amazon.com/images/P/044022165X.01.THUMBZZZ.jpg,1996,7.317073170731708,1681
+286,0440222656,41,320,The Horse Whisperer,Nicholas Evans,Dell,http://images.amazon.com/images/P/0440222656.01.THUMBZZZ.jpg,1996,7.804878048780488,1681
+288,0440224675,44,319,Hannibal,Thomas Harris,Dell Publishing Company,http://images.amazon.com/images/P/0440224675.01.THUMBZZZ.jpg,2000,7.25,1936
+289,0440224764,50,396,The Partner,John Grisham,Dell Publishing Company,http://images.amazon.com/images/P/0440224764.01.THUMBZZZ.jpg,1998,7.92,2500
+290,0440225701,47,365,The Street Lawyer,JOHN GRISHAM,Dell,http://images.amazon.com/images/P/0440225701.01.THUMBZZZ.jpg,1999,7.76595744680851,2209
+291,0440226430,67,516,Summer Sisters,Judy Blume,Dell Publishing Company,http://images.amazon.com/images/P/0440226430.01.THUMBZZZ.jpg,1999,7.701492537313433,4489
+292,0440234743,47,361,The Testament,John Grisham,Dell,http://images.amazon.com/images/P/0440234743.01.THUMBZZZ.jpg,1999,7.680851063829787,2209
+293,0440236673,44,340,The Brethren,John Grisham,Island,http://images.amazon.com/images/P/0440236673.01.THUMBZZZ.jpg,2000,7.7272727272727275,1936
+294,044023722X,67,516,A Painted House,John Grisham,Dell Publishing Company,http://images.amazon.com/images/P/044023722X.01.THUMBZZZ.jpg,2001,7.701492537313433,4489
+297,0440241073,36,275,The Summons,John Grisham,Dell Publishing Company,http://images.amazon.com/images/P/0440241073.01.THUMBZZZ.jpg,2002,7.638888888888889,1296
+298,0440241537,22,160,The King of Torts,JOHN GRISHAM,Dell,http://images.amazon.com/images/P/0440241537.01.THUMBZZZ.jpg,2003,7.2727272727272725,484
+300,0440418321,9,81,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,Yearling,http://images.amazon.com/images/P/0440418321.01.THUMBZZZ.jpg,2001,9.0,81
+301,044041833X,6,55,"The Subtle Knife (His Dark Materials, Book 2)",PHILIP PULLMAN,Yearling,http://images.amazon.com/images/P/044041833X.01.THUMBZZZ.jpg,2001,9.166666666666666,36
+303,0440498058,40,352,A Wrinkle In Time,MADELEINE L'ENGLE,Yearling,http://images.amazon.com/images/P/0440498058.01.THUMBZZZ.jpg,1998,8.8,1600
+307,0440998050,38,340,A Wrinkle in Time,Madeleine L'Engle,Laure Leaf,http://images.amazon.com/images/P/0440998050.01.THUMBZZZ.jpg,1976,8.947368421052632,1444
+308,0441304834,30,244,Guilty Pleasures (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,Ace Books,http://images.amazon.com/images/P/0441304834.01.THUMBZZZ.jpg,1995,8.133333333333333,900
+309,0446310492,10,88,To Kill a Mockingbird,Harper Lee,Warner Books,http://images.amazon.com/images/P/0446310492.01.THUMBZZZ.jpg,1985,8.8,100
+310,0446310786,90,807,To Kill a Mockingbird,Harper Lee,Little Brown &amp; Company,http://images.amazon.com/images/P/0446310786.01.THUMBZZZ.jpg,1988,8.966666666666667,8100
+311,0446364495,9,67,The Bridges of Madison County,Robert James Waller,Warner Books,http://images.amazon.com/images/P/0446364495.01.THUMBZZZ.jpg,1995,7.444444444444445,81
+312,044651652X,49,355,The Bridges of Madison County,Robert James Waller,Warner Books,http://images.amazon.com/images/P/044651652X.01.THUMBZZZ.jpg,1992,7.244897959183674,2401
+313,0446520802,22,182,The Notebook,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446520802.01.THUMBZZZ.jpg,1996,8.272727272727273,484
+314,0446523569,16,128,Message in a Bottle,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446523569.01.THUMBZZZ.jpg,1998,8.0,256
+315,0446525502,11,102,The Rescue,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446525502.01.THUMBZZZ.jpg,2000,9.272727272727273,121
+316,0446525537,18,135,A Walk to Remember,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446525537.01.THUMBZZZ.jpg,1999,7.5,324
+317,0446527785,18,127,A Bend in the Road,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446527785.01.THUMBZZZ.jpg,2001,7.055555555555555,324
+318,0446532231,42,353,"Dude, Where's My Country?",Michael Moore,Warner Books,http://images.amazon.com/images/P/0446532231.01.THUMBZZZ.jpg,2003,8.404761904761905,1764
+319,0446601241,34,280,Kiss the Girls,James Patterson,Warner Books,http://images.amazon.com/images/P/0446601241.01.THUMBZZZ.jpg,1995,8.235294117647058,1156
+320,0446605239,66,515,The Notebook,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446605239.01.THUMBZZZ.jpg,1998,7.803030303030303,4356
+321,0446606812,47,333,Message in a Bottle,Nicholas Sparks,Warner Vision,http://images.amazon.com/images/P/0446606812.01.THUMBZZZ.jpg,1999,7.085106382978723,2209
+322,0446607657,42,333,When the Wind Blows,James Patterson,Warner Vision,http://images.amazon.com/images/P/0446607657.01.THUMBZZZ.jpg,1999,7.928571428571429,1764
+323,0446608955,43,357,A Walk to Remember,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446608955.01.THUMBZZZ.jpg,2000,8.30232558139535,1849
+324,0446609404,32,243,Cradle and All,James Patterson,Warner Vision,http://images.amazon.com/images/P/0446609404.01.THUMBZZZ.jpg,2001,7.59375,1024
+325,0446610038,70,553,1st to Die: A Novel,James Patterson,Warner Vision,http://images.amazon.com/images/P/0446610038.01.THUMBZZZ.jpg,2002,7.9,4900
+326,0446610399,30,225,The Rescue,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446610399.01.THUMBZZZ.jpg,2001,7.5,900
+327,0446611085,24,200,Suzanne's Diary for Nicholas,James Patterson,Warner Books,http://images.amazon.com/images/P/0446611085.01.THUMBZZZ.jpg,2003,8.333333333333334,576
+328,0446611212,33,260,Violets Are Blue,James Patterson,Warner Vision,http://images.amazon.com/images/P/0446611212.01.THUMBZZZ.jpg,2002,7.878787878787879,1089
+329,0446611867,33,247,A Bend in the Road,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446611867.01.THUMBZZZ.jpg,2002,7.484848484848484,1089
+330,0446612545,29,220,The Beach House,James Patterson,Warner Books,http://images.amazon.com/images/P/0446612545.01.THUMBZZZ.jpg,2003,7.586206896551724,841
+331,0446612790,36,283,2nd Chance,James Patterson,Warner Vision,http://images.amazon.com/images/P/0446612790.01.THUMBZZZ.jpg,2003,7.861111111111111,1296
+332,0446613266,20,157,Four Blind Mice,James Patterson,Warner Books,http://images.amazon.com/images/P/0446613266.01.THUMBZZZ.jpg,2003,7.85,400
+333,0446672211,92,778,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,Warner Books,http://images.amazon.com/images/P/0446672211.01.THUMBZZZ.jpg,1998,8.456521739130435,8464
+335,0446676098,13,104,The Notebook,Nicholas Sparks,Warner Books,http://images.amazon.com/images/P/0446676098.01.THUMBZZZ.jpg,1999,8.0,169
+338,0446679593,19,156,Suzanne's Diary for Nicholas,James Patterson,Warner Books,http://images.amazon.com/images/P/0446679593.01.THUMBZZZ.jpg,2002,8.210526315789474,361
+340,0449003787,26,207,"\O\"" Is for Outlaw""",SUE GRAFTON,Ballantine Books,http://images.amazon.com/images/P/0449003787.01.THUMBZZZ.jpg,2001,7.961538461538462,676
+341,0449005615,36,326,Seabiscuit: An American Legend,LAURA HILLENBRAND,Ballantine Books,http://images.amazon.com/images/P/0449005615.01.THUMBZZZ.jpg,2002,9.055555555555555,1296
+342,0449212602,46,399,The Handmaid's Tale,Margaret Atwood,Fawcett Books,http://images.amazon.com/images/P/0449212602.01.THUMBZZZ.jpg,1989,8.673913043478262,2116
+347,0451132378,16,135,Pet Sematary,Stephen King,Signet Book,http://images.amazon.com/images/P/0451132378.01.THUMBZZZ.jpg,1984,8.4375,256
+348,0451137965,19,149,Thinner,Stephen King,New Amer Library,http://images.amazon.com/images/P/0451137965.01.THUMBZZZ.jpg,1985,7.842105263157895,361
+351,0451142934,23,190,Skeleton Crew,Stephen King,New Amer Library,http://images.amazon.com/images/P/0451142934.01.THUMBZZZ.jpg,1986,8.26086956521739,529
+352,0451149513,10,77,It,Stephen King,New Amer Library,http://images.amazon.com/images/P/0451149513.01.THUMBZZZ.jpg,1987,7.7,100
+355,0451153553,24,195,Misery,Stephen King,New Amer Library,http://images.amazon.com/images/P/0451153553.01.THUMBZZZ.jpg,1988,8.125,576
+356,0451156609,36,268,The Tommyknockers,Stephen King,Signet Book,http://images.amazon.com/images/P/0451156609.01.THUMBZZZ.jpg,1994,7.444444444444445,1296
+357,0451157443,11,80,Carrie,Stephen King,Signet Book,http://images.amazon.com/images/P/0451157443.01.THUMBZZZ.jpg,1994,7.2727272727272725,121
+359,0451160525,31,269,"The Gunslinger (The Dark Tower, Book 1)",Stephen King,New American Library,http://images.amazon.com/images/P/0451160525.01.THUMBZZZ.jpg,1994,8.67741935483871,961
+360,0451161343,19,144,Thinner,Stephen King,Signet Book,http://images.amazon.com/images/P/0451161343.01.THUMBZZZ.jpg,1994,7.578947368421052,361
+361,0451162072,13,106,Pet Sematary,Stephen King,Signet Book,http://images.amazon.com/images/P/0451162072.01.THUMBZZZ.jpg,1994,8.153846153846153,169
+362,0451163524,22,182,"The Drawing of the Three (The Dark Tower, Book 2)",Stephen King,Signet Book,http://images.amazon.com/images/P/0451163524.01.THUMBZZZ.jpg,1997,8.272727272727273,484
+363,0451167317,41,313,The Dark Half,Stephen King,Signet Book,http://images.amazon.com/images/P/0451167317.01.THUMBZZZ.jpg,1994,7.634146341463414,1681
+364,0451168615,17,143,Skeleton Crew,Stephen King,Signet Book,http://images.amazon.com/images/P/0451168615.01.THUMBZZZ.jpg,1986,8.411764705882353,289
+365,0451169514,22,175,It,Stephen King,Signet Book,http://images.amazon.com/images/P/0451169514.01.THUMBZZZ.jpg,1997,7.954545454545454,484
+366,0451169522,30,238,Misery,Stephen King,Penguin USA (Paper),http://images.amazon.com/images/P/0451169522.01.THUMBZZZ.jpg,2004,7.933333333333334,900
+367,0451170385,22,166,Four Past Midnight,Stephen King,Signet Book,http://images.amazon.com/images/P/0451170385.01.THUMBZZZ.jpg,2001,7.545454545454546,484
+369,0451176464,41,310,Gerald's Game,Stephen King,Signet Book,http://images.amazon.com/images/P/0451176464.01.THUMBZZZ.jpg,2001,7.560975609756097,1681
+370,0451177096,27,210,Dolores Claiborne,Stephen King,Signet Book,http://images.amazon.com/images/P/0451177096.01.THUMBZZZ.jpg,2004,7.777777777777778,729
+371,0451180232,28,236,Nightmares &amp; Dreamscapes,Stephen King,Signet Book,http://images.amazon.com/images/P/0451180232.01.THUMBZZZ.jpg,2004,8.428571428571429,784
+373,0451184963,41,325,Insomnia,Stephen King,Signet Book,http://images.amazon.com/images/P/0451184963.01.THUMBZZZ.jpg,1995,7.926829268292683,1681
+375,0451186362,25,191,Rose Madder,Stephen King,Signet Book,http://images.amazon.com/images/P/0451186362.01.THUMBZZZ.jpg,2004,7.64,625
+376,0451188462,24,183,Desperation,Stephen King,Signet Book,http://images.amazon.com/images/P/0451188462.01.THUMBZZZ.jpg,1997,7.625,576
+379,0451194861,10,87,"Wizard and Glass (The Dark Tower, Book 4)",Stephen King,Signet Book,http://images.amazon.com/images/P/0451194861.01.THUMBZZZ.jpg,1998,8.7,100
+392,0451524667,6,52,Animal Farm,George Orwell,New Amer Library Classics,http://images.amazon.com/images/P/0451524667.01.THUMBZZZ.jpg,1990,8.666666666666666,36
+393,0451524934,47,418,1984,George Orwell,Signet Book,http://images.amazon.com/images/P/0451524934.01.THUMBZZZ.jpg,1990,8.893617021276595,2209
+396,0451526341,36,305,Animal Farm,George Orwell,Signet,http://images.amazon.com/images/P/0451526341.01.THUMBZZZ.jpg,2004,8.472222222222221,1296
+397,0452262143,19,160,"The Drawing of the Three (The Dark Tower, Book 2)",Stephen King,Plume Books,http://images.amazon.com/images/P/0452262143.01.THUMBZZZ.jpg,1989,8.421052631578947,361
+398,0452262933,6,53,1984,George Orwell,Plume Books,http://images.amazon.com/images/P/0452262933.01.THUMBZZZ.jpg,1983,8.833333333333334,36
+400,0452279178,20,172,"Wizard and Glass (The Dark Tower, Book 4)",Stephen King,Plume Books,http://images.amazon.com/images/P/0452279178.01.THUMBZZZ.jpg,1997,8.6,400
+403,0452282152,87,701,Girl with a Pearl Earring,Tracy Chevalier,Plume Books,http://images.amazon.com/images/P/0452282152.01.THUMBZZZ.jpg,2001,8.057471264367816,7569
+404,0452284694,7,66,"The Gunslinger (The Dark Tower, Book 1)",Stephen King,Plume Books,http://images.amazon.com/images/P/0452284694.01.THUMBZZZ.jpg,2003,9.428571428571429,49
+410,0515131229,41,325,Dance upon the Air (Three Sisters Island Trilogy),Nora Roberts,Jove Books,http://images.amazon.com/images/P/0515131229.01.THUMBZZZ.jpg,2003,7.926829268292683,1681
+411,051513449X,12,107,Guilty Pleasures (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,Jove Books,http://images.amazon.com/images/P/051513449X.01.THUMBZZZ.jpg,1995,8.916666666666666,144
+414,0517542099,8,73,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Harmony,http://images.amazon.com/images/P/0517542099.01.THUMBZZZ.jpg,1989,9.125,64
+420,0552998486,12,98,Chocolat,Joanne Harris,Black Swan,http://images.amazon.com/images/P/0552998486.01.THUMBZZZ.jpg,2000,8.166666666666666,144
+423,0553213105,25,211,Pride and Prejudice,Jane Austen,Bantam,http://images.amazon.com/images/P/0553213105.01.THUMBZZZ.jpg,1981,8.44,625
+426,0553250426,47,395,The Clan of the Cave Bear (Earth's Children (Paperback)),Jean M. Auel,Bantam Books,http://images.amazon.com/images/P/0553250426.01.THUMBZZZ.jpg,1984,8.404255319148936,2209
+427,0553258001,12,103,The Cider House Rules,John Irving,Bantam Books,http://images.amazon.com/images/P/0553258001.01.THUMBZZZ.jpg,1986,8.583333333333334,144
+428,0553268880,35,282,The Prince of Tides,Pat Conroy,Bantam Books,http://images.amazon.com/images/P/0553268880.01.THUMBZZZ.jpg,1987,8.057142857142857,1225
+429,0553279912,58,439,A Is for Alibi (Kinsey Millhone Mysteries (Paperback)),SUE GRAFTON,Bantam,http://images.amazon.com/images/P/0553279912.01.THUMBZZZ.jpg,1987,7.568965517241379,3364
+430,0553280341,55,430,B Is for Burglar (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,Bantam,http://images.amazon.com/images/P/0553280341.01.THUMBZZZ.jpg,1986,7.818181818181818,3025
+431,0553280368,43,355,C Is for Corpse (Kinsey Millhone Mysteries (Paperback)),Sue Grafton,Bantam,http://images.amazon.com/images/P/0553280368.01.THUMBZZZ.jpg,1987,8.255813953488373,1849
+432,0553296981,41,360,Anne Frank: The Diary of a Young Girl,ANNE FRANK,Bantam,http://images.amazon.com/images/P/0553296981.01.THUMBZZZ.jpg,1993,8.78048780487805,1681
+441,0553572997,44,351,The Alienist,Caleb Carr,Bantam Books,http://images.amazon.com/images/P/0553572997.01.THUMBZZZ.jpg,1995,7.9772727272727275,1936
+443,0590112899,8,69,"The Subtle Knife (His Dark Materials, Book 2)",Philip Pullman,Scholastic Point,http://images.amazon.com/images/P/0590112899.01.THUMBZZZ.jpg,1998,8.625,64
+444,0590353403,72,646,Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,Scholastic,http://images.amazon.com/images/P/0590353403.01.THUMBZZZ.jpg,1998,8.972222222222221,5184
+445,059035342X,120,1080,Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,Arthur A. Levine Books,http://images.amazon.com/images/P/059035342X.01.THUMBZZZ.jpg,1999,9.0,14400
+452,0618002227,26,233,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J. R. R. Tolkien,Houghton Mifflin Company,http://images.amazon.com/images/P/0618002227.01.THUMBZZZ.jpg,1999,8.961538461538462,676
+453,0618002235,15,148,"The Two Towers (The Lord of the Rings, Part 2)",J. R. R. Tolkien,Houghton Mifflin Company,http://images.amazon.com/images/P/0618002235.01.THUMBZZZ.jpg,1999,9.866666666666667,225
+454,0618129030,7,66,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J. R. R. Tolkien,Houghton Mifflin Company,http://images.amazon.com/images/P/0618129030.01.THUMBZZZ.jpg,2001,9.428571428571429,49
+455,0618129081,6,55,"The Two Towers (The Lord of the Rings, Part 2)",J. R. R. Tolkien,Houghton Mifflin Company,http://images.amazon.com/images/P/0618129081.01.THUMBZZZ.jpg,2001,9.166666666666666,36
+464,0670032379,18,156,The Secret Life of Bees,Sue Monk Kidd,Viking Books,http://images.amazon.com/images/P/0670032379.01.THUMBZZZ.jpg,2002,8.666666666666666,324
+465,0670032549,8,69,"The Gunslinger (The Dark Tower, Book 1)",Stephen King,Viking Books,http://images.amazon.com/images/P/0670032549.01.THUMBZZZ.jpg,2003,8.625,64
+467,0670032573,6,55,"Wizard and Glass (The Dark Tower, Book 4)",Stephen King,Viking Books,http://images.amazon.com/images/P/0670032573.01.THUMBZZZ.jpg,2003,9.166666666666666,36
+468,0670813028,14,118,It,Stephen King,Viking Books,http://images.amazon.com/images/P/0670813028.01.THUMBZZZ.jpg,1986,8.428571428571429,196
+469,0670813648,12,102,Misery,Stephen King,Viking Books,http://images.amazon.com/images/P/0670813648.01.THUMBZZZ.jpg,1990,8.5,144
+470,067082982X,12,91,The Dark Half,Stephen King,Viking Books,http://images.amazon.com/images/P/067082982X.01.THUMBZZZ.jpg,1992,7.583333333333333,144
+471,0670835382,19,153,Four Past Midnight,Stephen King,Viking Books,http://images.amazon.com/images/P/0670835382.01.THUMBZZZ.jpg,1990,8.052631578947368,361
+472,0670844527,20,149,Dolores Claiborne,Stephen King,Viking Books,http://images.amazon.com/images/P/0670844527.01.THUMBZZZ.jpg,1992,7.45,400
+475,0670851086,13,95,Nightmares &amp; Dreamscapes,Stephen King,Viking Books,http://images.amazon.com/images/P/0670851086.01.THUMBZZZ.jpg,1993,7.3076923076923075,169
+476,0670855030,18,154,Insomnia,Stephen King,Viking Books,http://images.amazon.com/images/P/0670855030.01.THUMBZZZ.jpg,1994,8.555555555555555,324
+477,0670858692,14,110,Rose Madder,Stephen King,Viking Books,http://images.amazon.com/images/P/0670858692.01.THUMBZZZ.jpg,1995,7.857142857142857,196
+478,0670868361,19,147,Desperation,Stephen King,Viking Books,http://images.amazon.com/images/P/0670868361.01.THUMBZZZ.jpg,1996,7.7368421052631575,361
+480,0670880728,24,193,Bridget Jones's Diary,Helen Fielding,Viking Books,http://images.amazon.com/images/P/0670880728.01.THUMBZZZ.jpg,1998,8.041666666666666,576
+481,067088300X,22,161,The Girls' Guide to Hunting and Fishing,Melissa Bank,Viking Books,http://images.amazon.com/images/P/067088300X.01.THUMBZZZ.jpg,1999,7.318181818181818,484
+482,0670894605,19,166,The Secret Life of Bees,Sue Monk Kidd,Viking Books,http://images.amazon.com/images/P/0670894605.01.THUMBZZZ.jpg,2002,8.736842105263158,361
+483,0671001795,60,506,Two for the Dough,Janet Evanovich,Pocket,http://images.amazon.com/images/P/0671001795.01.THUMBZZZ.jpg,1996,8.433333333333334,3600
+484,0671003755,70,531,She's Come Undone (Oprah's Book Club (Paperback)),Wally Lamb,Washington Square Press,http://images.amazon.com/images/P/0671003755.01.THUMBZZZ.jpg,1996,7.585714285714285,4900
+486,0671021001,65,503,She's Come Undone (Oprah's Book Club),Wally Lamb,Pocket,http://images.amazon.com/images/P/0671021001.01.THUMBZZZ.jpg,1998,7.7384615384615385,4225
+488,0671027360,85,686,Angels &amp; Demons,Dan Brown,Pocket Star,http://images.amazon.com/images/P/0671027360.01.THUMBZZZ.jpg,2001,8.070588235294117,7225
+490,0671039725,14,120,Carrie,Stephen King,Pocket,http://images.amazon.com/images/P/0671039725.01.THUMBZZZ.jpg,2002,8.571428571428571,196
+492,0671041789,39,337,The Green Mile,Stephen King,Pocket,http://images.amazon.com/images/P/0671041789.01.THUMBZZZ.jpg,1999,8.64102564102564,1521
+494,0671461494,6,52,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Pocket,http://images.amazon.com/images/P/0671461494.01.THUMBZZZ.jpg,1982,8.666666666666666,36
+495,0671510053,43,336,SHIPPING NEWS,Annie Proulx,Scribner,http://images.amazon.com/images/P/0671510053.01.THUMBZZZ.jpg,1994,7.813953488372093,1849
+496,0671617028,28,243,The Color Purple,Alice Walker,Pocket Books,http://images.amazon.com/images/P/0671617028.01.THUMBZZZ.jpg,1985,8.678571428571429,784
+499,0671727796,28,240,The Color Purple,Alice Walker,Pocket,http://images.amazon.com/images/P/0671727796.01.THUMBZZZ.jpg,1990,8.571428571428571,784
+501,0679417796,7,55,The Alienist,Caleb Carr,Random House,http://images.amazon.com/images/P/0679417796.01.THUMBZZZ.jpg,1994,7.857142857142857,49
+504,0679432477,8,67,Empire Falls,RICHARD RUSSO,Knopf,http://images.amazon.com/images/P/0679432477.01.THUMBZZZ.jpg,2001,8.375,64
+505,0679442790,12,89,The Reader,Bernhard Schlink,Random House,http://images.amazon.com/images/P/0679442790.01.THUMBZZZ.jpg,1997,7.416666666666667,144
+506,0679444815,20,160,Timeline,Michael Crichton,Alfred A. Knopf,http://images.amazon.com/images/P/0679444815.01.THUMBZZZ.jpg,1999,8.0,400
+507,0679746048,44,338,"Girl, Interrupted",SUSANNA KAYSEN,Vintage,http://images.amazon.com/images/P/0679746048.01.THUMBZZZ.jpg,1994,7.681818181818182,1936
+508,067976402X,82,647,Snow Falling on Cedars,David Guterson,Vintage Books USA,http://images.amazon.com/images/P/067976402X.01.THUMBZZZ.jpg,1995,7.890243902439025,6724
+509,0679879242,9,72,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,Knopf Books for Young Readers,http://images.amazon.com/images/P/0679879242.01.THUMBZZZ.jpg,1996,8.0,81
+510,0679879250,8,71,"The Subtle Knife (His Dark Materials, Book 2)",Philip Pullman,Alfred A. Knopf,http://images.amazon.com/images/P/0679879250.01.THUMBZZZ.jpg,1997,8.875,64
+511,0679893105,9,78,"The Golden Compass (His Dark Materials, Book 1)",PHILIP PULLMAN,Knopf Books for Young Readers,http://images.amazon.com/images/P/0679893105.01.THUMBZZZ.jpg,1998,8.666666666666666,81
+515,0684801523,42,319,The Great Gatsby,F. Scott Fitzgerald,Scribner,http://images.amazon.com/images/P/0684801523.01.THUMBZZZ.jpg,1995,7.595238095238095,1764
+516,068484267X,43,347,Angela's Ashes: A Memoir,Frank McCourt,Scribner,http://images.amazon.com/images/P/068484267X.01.THUMBZZZ.jpg,1999,8.069767441860465,1849
+518,068484477X,48,388,STONES FROM THE RIVER,Ursula Hegi,Touchstone,http://images.amazon.com/images/P/068484477X.01.THUMBZZZ.jpg,1997,8.083333333333334,2304
+520,0684874350,47,397,ANGELA'S ASHES,Frank McCourt,Scribner,http://images.amazon.com/images/P/0684874350.01.THUMBZZZ.jpg,1996,8.446808510638299,2209
+523,0688163165,11,95,Mystic River,Dennis Lehane,William Morrow &amp; Company,http://images.amazon.com/images/P/0688163165.01.THUMBZZZ.jpg,2001,8.636363636363637,121
+533,0743211383,23,171,Dreamcatcher,Stephen King,Scribner,http://images.amazon.com/images/P/0743211383.01.THUMBZZZ.jpg,2001,7.434782608695652,529
+535,0743412273,10,83,Pet Sematary,Stephen King,Pocket,http://images.amazon.com/images/P/0743412273.01.THUMBZZZ.jpg,2001,8.3,100
+537,0743418166,7,62,Good in Bed,Jennifer Weiner,Atria,http://images.amazon.com/images/P/0743418166.01.THUMBZZZ.jpg,2001,8.857142857142858,49
+538,0743418174,83,664,Good in Bed,Jennifer Weiner,Washington Square Press,http://images.amazon.com/images/P/0743418174.01.THUMBZZZ.jpg,2002,8.0,6889
+539,074343627X,24,184,Dreamcatcher,Stephen King,Pocket,http://images.amazon.com/images/P/074343627X.01.THUMBZZZ.jpg,2001,7.666666666666667,576
+540,0743467523,20,147,Dreamcatcher,Stephen King,Pocket,http://images.amazon.com/images/P/0743467523.01.THUMBZZZ.jpg,2003,7.35,400
+541,0743486226,12,93,Angels &amp; Demons,Dan Brown,Atria,http://images.amazon.com/images/P/0743486226.01.THUMBZZZ.jpg,2003,7.75,144
+550,0765342294,7,63,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,Starscape Books,http://images.amazon.com/images/P/0765342294.01.THUMBZZZ.jpg,2002,9.0,49
+551,076790592X,9,82,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",Mitch Albom,Broadway,http://images.amazon.com/images/P/076790592X.01.THUMBZZZ.jpg,2002,9.11111111111111,81
+557,0786808012,8,69,"Artemis Fowl (Artemis Fowl, Book 1)",Eoin Colfer,Miramax Kids,http://images.amazon.com/images/P/0786808012.01.THUMBZZZ.jpg,2001,8.625,64
+558,0786817070,34,255,"Artemis Fowl (Artemis Fowl, Book 1)",Eoin Colfer,Miramax Kids,http://images.amazon.com/images/P/0786817070.01.THUMBZZZ.jpg,2002,7.5,1156
+559,0786817879,8,53,"Artemis Fowl (Artemis Fowl, Book 1)",Eoin Colfer,Miramax Kids,http://images.amazon.com/images/P/0786817879.01.THUMBZZZ.jpg,2003,6.625,64
+560,0786868716,77,630,The Five People You Meet in Heaven,Mitch Albom,Hyperion,http://images.amazon.com/images/P/0786868716.01.THUMBZZZ.jpg,2003,8.181818181818182,5929
+561,080410526X,48,385,All I Really Need to Know,ROBERT FULGHUM,Ivy Books,http://images.amazon.com/images/P/080410526X.01.THUMBZZZ.jpg,1989,8.020833333333334,2304
+562,0804106304,67,544,The Joy Luck Club,Amy Tan,Prentice Hall (K-12),http://images.amazon.com/images/P/0804106304.01.THUMBZZZ.jpg,1994,8.119402985074627,4489
+563,080410753X,33,263,The Kitchen God's Wife,Amy Tan,Ivy Books,http://images.amazon.com/images/P/080410753X.01.THUMBZZZ.jpg,1992,7.96969696969697,1089
+564,080411109X,31,247,The Hundred Secret Senses,Amy Tan,Ivy Books,http://images.amazon.com/images/P/080411109X.01.THUMBZZZ.jpg,1996,7.967741935483871,961
+565,0804114986,38,313,The Bonesetter's Daughter,Amy Tan,Ballantine Books,http://images.amazon.com/images/P/0804114986.01.THUMBZZZ.jpg,2002,8.236842105263158,1444
+566,0804115613,16,139,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,Ballantine Books,http://images.amazon.com/images/P/0804115613.01.THUMBZZZ.jpg,2000,8.6875,256
+568,0805059555,15,112,"\O\"" Is for Outlaw""",Sue Grafton,Henry Holt &amp; Company,http://images.amazon.com/images/P/0805059555.01.THUMBZZZ.jpg,1999,7.466666666666667,225
+569,0805063889,19,156,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,Metropolitan Books,http://images.amazon.com/images/P/0805063889.01.THUMBZZZ.jpg,2001,8.210526315789474,361
+570,0805063897,43,345,Nickel and Dimed: On (Not) Getting By in America,Barbara Ehrenreich,Owl Books,http://images.amazon.com/images/P/0805063897.01.THUMBZZZ.jpg,2002,8.023255813953488,1849
+579,0812550706,42,377,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,Tor Books,http://images.amazon.com/images/P/0812550706.01.THUMBZZZ.jpg,1994,8.976190476190476,1764
+583,0842329129,58,466,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,Tyndale House Publishers,http://images.amazon.com/images/P/0842329129.01.THUMBZZZ.jpg,1996,8.03448275862069,3364
+584,0842329218,43,348,Tribulation Force: The Continuing Drama of Those Left Behind (Left Behind No. 2),Tim LaHaye,Tyndale House Publishers,http://images.amazon.com/images/P/0842329218.01.THUMBZZZ.jpg,1997,8.093023255813954,1849
+596,0971880107,83,358,Wild Animus,Rich Shapero,Too Far,http://images.amazon.com/images/P/0971880107.01.THUMBZZZ.jpg,2004,4.313253012048193,6889
+597,1400031354,49,419,Tears of the Giraffe (No.1 Ladies Detective Agency),Alexander McCall Smith,Anchor,http://images.amazon.com/images/P/1400031354.01.THUMBZZZ.jpg,2002,8.551020408163266,2401
+598,1400034779,62,526,The No. 1 Ladies' Detective Agency (Today Show Book Club #8),Alexander McCall Smith,Anchor,http://images.amazon.com/images/P/1400034779.01.THUMBZZZ.jpg,2003,8.483870967741936,3844
+601,1558743669,42,315,"A Child Called \It\"": One Child's Courage to Survive""",Dave Pelzer,Health Communications,http://images.amazon.com/images/P/1558743669.01.THUMBZZZ.jpg,1995,7.5,1764
+615,1573220221,7,64,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,Riverhead Books,http://images.amazon.com/images/P/1573220221.01.THUMBZZZ.jpg,1996,9.142857142857142,49
+616,1573221937,16,105,How to Be Good,Nick Hornby,Riverhead Books,http://images.amazon.com/images/P/1573221937.01.THUMBZZZ.jpg,2001,6.5625,256
+617,1573225517,23,191,High Fidelity,Nick Hornby,Riverhead Books,http://images.amazon.com/images/P/1573225517.01.THUMBZZZ.jpg,1996,8.304347826086957,529
+618,1573225789,34,275,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,Riverhead Books,http://images.amazon.com/images/P/1573225789.01.THUMBZZZ.jpg,1997,8.088235294117647,1156
+619,1573226122,8,63,Lord of the Flies,William Golding,Riverhead Books,http://images.amazon.com/images/P/1573226122.01.THUMBZZZ.jpg,1997,7.875,64
+620,1573228214,16,119,High Fidelity,Nick Hornby,Riverhead Books,http://images.amazon.com/images/P/1573228214.01.THUMBZZZ.jpg,2000,7.4375,256
+621,1573229326,33,232,How to Be Good,Nick Hornby,Riverhead Books,http://images.amazon.com/images/P/1573229326.01.THUMBZZZ.jpg,2002,7.03030303030303,1089
+628,185326041X,6,49,The Great Gatsby,F. Scott Fitzgerald,Lb May &amp; Assoc Inc,http://images.amazon.com/images/P/185326041X.01.THUMBZZZ.jpg,1999,8.166666666666666,36
+630,1878448900,6,51,Girl in Hyacinth Blue,Susan Vreeland,MacAdam/Cage Publishing,http://images.amazon.com/images/P/1878448900.01.THUMBZZZ.jpg,1999,8.5,36
